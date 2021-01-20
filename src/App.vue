@@ -86,4 +86,4 @@ export default {
 </style>
 
 // TODO: Create Array for Todolist
-// TODO: Sync with GITHUB and Push
+
